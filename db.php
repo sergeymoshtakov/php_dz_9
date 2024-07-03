@@ -2,7 +2,7 @@
 $host = '127.0.0.1';
 $db = 'dz_nine_db';
 $user = 'root';
-$pass = 'Moshtakov2005s';
+$pass = '';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=utf8";
 $options = [
